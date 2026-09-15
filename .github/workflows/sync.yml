@@ -23,7 +23,7 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # No setup-python step: rtusync is stdlib-only and ubuntu-latest ships
       # a recent python3. Nothing to install, nothing to pin, nothing to rot.
@@ -38,21 +38,30 @@ jobs:
 
       - name: Commit only if the timetable actually moved
         run: |
-          FILES="planning.ics picker.html state.json changes.md"
-          if [ -z "$(git status --porcelain $FILES)" ]; then
+          # changes.md only exists once something has actually changed, so build
+          # the list from what is really on disk -- git add on a missing path is
+          # a fatal error, not a no-op.
+          FILES=""
+          for f in planning.ics picker.html state.json changes.md; do
+            if [ -f "$f" ]; then FILES="$FILES $f"; fi
+          done
+          if [ -z "$FILES" ]; then
+            echo "Nothing was built; leaving the tree alone."
+            exit 0
+          fi
+          if [ -z "$(git status --porcelain -- $FILES)" ]; then
             echo "Timetable unchanged; nothing to commit."
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add $FILES
-          # Name the actual change in the commit subject where there is one.
-          SUBJECT="RTU timetable: $(date -u +%Y-%m-%d %H:%M)"
-          if [ -f changes.md ] && git diff --cached --quiet --exit-code changes.md; then
-            :
-          elif [ -f changes.md ]; then
-            N=$(git diff --cached -U0 changes.md | grep -c '^+- `' || true)
-            [ "$N" -gt 0 ] && SUBJECT="RTU timetable: $N change(s) $(date -u +%Y-%m-%d)"
+          git add -- $FILES
+          SUBJECT="RTU timetable: $(date -u '+%Y-%m-%d %H:%M')"
+          if [ -f changes.md ]; then
+            N=$(git diff --cached -U0 -- changes.md | grep -c '^+- `' || true)
+            if [ "${N:-0}" -gt 0 ]; then
+              SUBJECT="RTU timetable: $N change(s) on $(date -u '+%Y-%m-%d')"
+            fi
           fi
           git commit -m "$SUBJECT"
           git push
