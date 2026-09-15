@@ -184,8 +184,8 @@ If you would rather not hold a token at all, **Kopēt include** (keeps your
 comments) and **Lejupielādēt config.json** (clean file) still work, and you
 commit by hand.
 
-To serve the page from GitHub Pages: repo Settings → Pages → deploy from `main`
-/ root, then open `/picker.html`.
+It is live at **<https://darkzeen.github.io/rtu-calendar/picker.html>** — the
+GitHub fields come pre-filled, so from a phone it is: tick, paste token, publish.
 
 ---
 
