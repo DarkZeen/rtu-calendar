@@ -90,16 +90,39 @@ def load(path: str) -> Dict[str, Any]:
     return data
 
 
-def save(path: str, result: StateResult, include_hash: str) -> None:
+def save(path: str, result: StateResult, include_hash: str) -> bool:
+    """Write state, but only when something other than the clock moved.
+
+    The ``updated`` stamp alone must never make the file differ: on an hourly
+    schedule that would mean a commit every hour regardless of whether the
+    timetable changed, which is precisely the noise this design avoids
+    everywhere else.
+    """
     payload = {
         "version": STATE_VERSION,
         "include_hash": include_hash,
         "updated": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "events": result.records,
     }
+    text = json.dumps(payload, ensure_ascii=False, indent=1, sort_keys=True) + "\n"
+
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as handle:
+                existing = json.load(handle)
+        except (ValueError, OSError):
+            existing = None
+        if isinstance(existing, dict):
+            a = dict(existing)
+            b = dict(payload)
+            a.pop("updated", None)
+            b.pop("updated", None)
+            if a == b:
+                return False
+
     with open(path, "w", encoding="utf-8") as handle:
-        json.dump(payload, handle, ensure_ascii=False, indent=1, sort_keys=True)
-        handle.write("\n")
+        handle.write(text)
+    return True
 
 
 def include_fingerprint(include: Sequence[str]) -> str:
