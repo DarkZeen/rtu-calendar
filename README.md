@@ -128,7 +128,7 @@ the workflow has no dependency that can rot.
 Once pushed, subscribe to:
 
 ```
-https://raw.githubusercontent.com/<user>/<repo>/main/planning.ics
+https://raw.githubusercontent.com/DarkZeen/rtu-calendar/main/planning.ics
 ```
 
 Two things to know about scheduled workflows:

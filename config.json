@@ -19,8 +19,8 @@
   // Where picker.html publishes your selection. Leave blank and fill it in
   // on the page itself; "path" is the file the picker rewrites.
   "github": {
-    "owner": "",
-    "repo": "",
+    "owner": "DarkZeen",
+    "repo": "rtu-calendar",
     "branch": "main",
     "path": "config.json"
   },
