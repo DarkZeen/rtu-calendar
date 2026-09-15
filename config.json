@@ -32,7 +32,8 @@
     "calendar_name": "RTU — Autotransporta inženierija",
     "summary_format": "{subject} · {room}",   // {subject} {types} {type_short} {room} {room_full} {lecturer} {code}
     "location_style": "full",    // "full" = Zunda krastmala 8 - 302, "short" = Zun. 8-302
-    "include_lecturer": true
+    "include_lecturer": true,
+    "alarm_minutes": 15          // reminder before each class; 0 disables
   },
 
   // INCLUDE-LIST: only these subjects reach your calendar.

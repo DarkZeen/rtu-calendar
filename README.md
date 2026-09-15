@@ -84,6 +84,7 @@ Three further warnings fire when something moves underneath you:
 |---|---|
 | `language` | `"lv"` or `"en"`. The other language goes into the event description, so both are always present. |
 | `output.summary_format` | Template. Placeholders: `{subject}` `{types}` `{type_short}` `{room}` `{room_full}` `{lecturer}` `{code}`. |
+| `output.alarm_minutes` | Minutes before each class to fire a reminder. `15` by default here; `0` emits no `VALARM` at all. |
 | `output.location_style` | `"full"` → `Ķīpsalas 6A - 428 (D4.2)` (better for Maps). `"short"` → `Ķīp. 6A-428 (D4.2)` (what's on the door). |
 | `semester.id` | Bump this and `group.semester_program_id` for next semester. |
 
@@ -292,6 +293,21 @@ RTU sends the event day as an epoch meant to be read in `Europe/Riga` — the
 site's own JS formats it with `timeZone: 'Europe/Riga'`. We do the same, then
 emit UTC. Verified across the 2026-10-25 DST boundary: a 10:15 Riga class is
 `07:15Z` in October and `08:15Z` in November.
+
+---
+
+## Reminders
+
+Each event carries a `VALARM` firing `alarm_minutes` before it starts, whose
+notification text is the event summary — so the alert names the **room**, which
+is the part worth knowing a quarter of an hour out.
+
+This matters more than it looks: a subscribed calendar is **read-only**, so you
+cannot attach your own reminders to these events. The feed is the only thing
+that can alert you.
+
+On iOS the *Remove Alarms* switch on the subscription must be **off**, or the
+device strips them on arrival.
 
 ---
 

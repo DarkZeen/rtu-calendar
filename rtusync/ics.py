@@ -146,8 +146,8 @@ def render(events: Sequence[Event], cfg, generated_at: Optional[dt.datetime] = N
         _prop("X-WR-CALDESC", escape_text(" — ".join(desc_bits))),
         _prop("DESCRIPTION", escape_text(" — ".join(desc_bits))),
         "X-WR-TIMEZONE:Europe/Riga",
-        "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
-        "X-PUBLISHED-TTL:PT6H",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
+        "X-PUBLISHED-TTL:PT1H",
         _prop("SOURCE;VALUE=URI", SOURCE_URL),
     ]
 
@@ -171,6 +171,15 @@ def render(events: Sequence[Event], cfg, generated_at: Optional[dt.datetime] = N
             out.append(_prop("CATEGORIES", escape_text(event.subject.title(cfg.language))))
         out.append(_prop("URL;VALUE=URI", SOURCE_URL))
         out.append("TRANSP:OPAQUE")
+        if cfg.alarm_minutes > 0:
+            # A subscribed calendar is read-only, so the feed is the only thing
+            # that can remind you. Carry the summary -- it holds the room, which
+            # is the part worth knowing 15 minutes out.
+            out.append("BEGIN:VALARM")
+            out.append("ACTION:DISPLAY")
+            out.append("TRIGGER:-PT%dM" % cfg.alarm_minutes)
+            out.append(_prop("DESCRIPTION", escape_text(_summary(event, cfg))))
+            out.append("END:VALARM")
         out.append("END:VEVENT")
 
     out.append("END:VCALENDAR")

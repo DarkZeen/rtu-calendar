@@ -72,6 +72,7 @@ class Config:
     summary_format: str = "{subject} · {types}"
     location_style: str = "full"          # full | short
     include_lecturer: bool = True
+    alarm_minutes: int = 0
     state_path: str = "state.json"
     changelog_path: str = "changes.md"
     github: Dict[str, str] = field(default_factory=dict)
@@ -125,6 +126,13 @@ def load(path: str = DEFAULT_CONFIG_PATH) -> Config:
     if language not in ("lv", "en"):
         raise ConfigError("language must be 'lv' or 'en', got %r" % language)
 
+    try:
+        alarm_minutes = int(output.get("alarm_minutes", 0) or 0)
+    except (TypeError, ValueError):
+        raise ConfigError("output.alarm_minutes must be a whole number of minutes")
+    if alarm_minutes < 0:
+        raise ConfigError("output.alarm_minutes cannot be negative")
+
     location_style = str(output.get("location_style", "full")).lower()
     if location_style not in ("full", "short"):
         raise ConfigError("output.location_style must be 'full' or 'short'")
@@ -148,6 +156,7 @@ def load(path: str = DEFAULT_CONFIG_PATH) -> Config:
         summary_format=str(output.get("summary_format") or "{subject} · {types}"),
         location_style=location_style,
         include_lecturer=bool(output.get("include_lecturer", True)),
+        alarm_minutes=alarm_minutes,
         state_path=str(output.get("state_path") or "state.json"),
         changelog_path=str(output.get("changelog_path") or "changes.md"),
         github=github,
