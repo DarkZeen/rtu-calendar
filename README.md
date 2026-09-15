@@ -159,6 +159,17 @@ so it behaves identically opened from disk (`file://`) or served from GitHub
 Pages. The daily workflow regenerates it, so the subject list cannot drift from
 the live grid.
 
+### Published vs. merely ticked
+
+Ticking a subject changes the page, not the calendar. The selection is kept in
+browser storage as you go, so it survives a reload — which means a subject can
+*look* dropped while still being in the published feed.
+
+The page therefore shows the difference: rows that differ from what is actually
+committed get an accent bar and a dot, the tally grows a **"N nepublicētas
+izmaiņas"** pill, and the publish button is highlighted until you press it.
+**Atjaunot** discards local edits and returns to the committed state.
+
 ### Publishing straight from the page
 
 The page can commit your selection to GitHub itself, which is what lets you

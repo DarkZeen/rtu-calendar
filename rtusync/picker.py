@@ -79,6 +79,13 @@ h1{font-size:30px; line-height:1.2; margin:0 0 10px; font-weight:500; color:var(
 .tally{font-size:14px; color:var(--muted); flex:1 1 220px; min-width:0}
 .tally b{color:var(--ink); font-weight:500}
 .tally .drop{color:var(--brand-2)}
+.dirty{
+  display:inline-flex; align-items:center; gap:6px; margin-top:6px;
+  font-size:12px; letter-spacing:.4px; padding:3px 10px; border-radius:999px;
+  background:var(--mint); color:var(--brand); border:1px solid var(--line);
+}
+.dirty::before{content:"\25CF"; color:var(--accent); font-size:10px}
+button.go.attention{box-shadow:0 0 0 3px rgba(0,135,101,.22)}
 .btns{display:flex; gap:8px; flex-wrap:wrap}
 button{
   font:inherit; font-size:12px; letter-spacing:.6px; cursor:pointer;
@@ -100,6 +107,11 @@ button:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
 .row:first-child{border-top:0}
 .row:hover{background:var(--mint-soft)}
 .row.off{opacity:.5}
+.row.pending{box-shadow:inset 3px 0 0 var(--accent)}
+.row.pending .name::after{
+  content:"\2022"; color:var(--accent); font-size:18px; line-height:0;
+  position:relative; top:2px; margin-left:7px;
+}
 .row.off .name{text-decoration:line-through; text-decoration-color:var(--line)}
 .box{flex:0 0 auto; width:20px; height:20px; margin-top:2px; border-radius:6px;
   border:1.5px solid var(--line); background:var(--card);
@@ -304,10 +316,28 @@ input:focus{outline:2px solid var(--accent); outline-offset:1px}
       row._cb.checked = on;
       if (on) kept += row._count; else dropped += row._count;
     });
-    document.getElementById('tally').innerHTML =
-      '<b>' + sel.size + '</b> no ' + D.subjects.length + ' priekšmetiem · ' +
+    // Local edits and published state must never look the same -- that is how
+    // you end up with a subject you thought you had dropped still in the feed.
+    var live = new Set(committed);
+    var pending = 0;
+    [].forEach.call(list.children, function(row){
+      var differs = sel.has(row._key) !== live.has(row._key);
+      row.classList.toggle('pending', differs);
+      if (differs) pending++;
+    });
+
+    var html = '<b>' + sel.size + '</b> no ' + D.subjects.length + ' priekšmetiem · ' +
       '<b>' + kept + '</b> nodarbības kalendārā' +
       (dropped ? ' · <span class="drop">' + dropped + ' izlaistas</span>' : '');
+    if (pending) {
+      html += '<br><span class="dirty">' + pending +
+        (pending === 1 ? ' nepublicēta izmaiņa' : ' nepublicētas izmaiņas') +
+        ' — nospied “Saglabāt un publicēt”</span>';
+    }
+    document.getElementById('tally').innerHTML = html;
+
+    var go = document.getElementById('publish');
+    if (go) go.classList.toggle('attention', pending > 0);
     document.getElementById('out').textContent = includeBlock();
   }
 
