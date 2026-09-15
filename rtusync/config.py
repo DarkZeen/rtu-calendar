@@ -73,6 +73,7 @@ class Config:
     location_style: str = "full"          # full | short
     include_lecturer: bool = True
     alarm_minutes: int = 0
+    alarm_format: str = "{subject} · {room}"
     state_path: str = "state.json"
     changelog_path: str = "changes.md"
     github: Dict[str, str] = field(default_factory=dict)
@@ -157,6 +158,7 @@ def load(path: str = DEFAULT_CONFIG_PATH) -> Config:
         location_style=location_style,
         include_lecturer=bool(output.get("include_lecturer", True)),
         alarm_minutes=alarm_minutes,
+        alarm_format=str(output.get("alarm_format") or "{subject} \u00b7 {room}"),
         state_path=str(output.get("state_path") or "state.json"),
         changelog_path=str(output.get("changelog_path") or "changes.md"),
         github=github,

@@ -85,6 +85,7 @@ Three further warnings fire when something moves underneath you:
 | `language` | `"lv"` or `"en"`. The other language goes into the event description, so both are always present. |
 | `output.summary_format` | Template. Placeholders: `{subject}` `{types}` `{type_short}` `{room}` `{room_full}` `{lecturer}` `{code}`. |
 | `output.alarm_minutes` | Minutes before each class to fire a reminder. `15` by default here; `0` emits no `VALARM` at all. |
+| `output.alarm_format` | Notification text. Separate from the title on purpose, so the alert can name the room the title leaves out. |
 | `output.location_style` | `"full"` → `Ķīpsalas 6A - 428 (D4.2)` (better for Maps). `"short"` → `Ķīp. 6A-428 (D4.2)` (what's on the door). |
 | `semester.id` | Bump this and `group.semester_program_id` for next semester. |
 
@@ -298,9 +299,11 @@ emit UTC. Verified across the 2026-10-25 DST boundary: a 10:15 Riga class is
 
 ## Reminders
 
-Each event carries a `VALARM` firing `alarm_minutes` before it starts, whose
-notification text is the event summary — so the alert names the **room**, which
-is the part worth knowing a quarter of an hour out.
+Each event carries a `VALARM` firing `alarm_minutes` before it starts. Its text
+comes from `alarm_format`, which is deliberately **not** the event title: the
+title stays clean (`Matemātika · Lekcija`) and leaves the room to `LOCATION`,
+while the notification says `Matemātika · Ķīp. 6A-428` — because a room is
+clutter in a month grid and the whole point of an alert fifteen minutes out.
 
 This matters more than it looks: a subscribed calendar is **read-only**, so you
 cannot attach your own reminders to these events. The feed is the only thing

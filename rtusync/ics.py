@@ -75,11 +75,11 @@ def _location(event: Event, style: str) -> str:
     return event.room_full or event.room_short
 
 
-def _summary(event: Event, cfg) -> str:
+def _render_template(event: Event, cfg, template: str) -> str:
     subject = event.subject.title(cfg.language) if event.subject else event.subject_text
     types = label_types(event.type_tokens, cfg.language)
     lecturer = (event.lecturer_en if cfg.language == "en" else event.lecturer_lv) or event.lecturer_lv
-    text = cfg.summary_format.format(
+    text = template.format(
         subject=subject,
         types=", ".join(types),
         type_short=", ".join(t.rstrip(".") + "." for t in event.type_tokens),
@@ -88,8 +88,19 @@ def _summary(event: Event, cfg) -> str:
         lecturer=lecturer,
         code=event.subject.code if event.subject else "",
     )
-    text = re.sub(r"\s*·\s*$", "", text).strip()      # no dangling separator
+    text = re.sub(r"\s*·\s*", " · ", text)            # normalise separators
+    text = re.sub(r"^\s*·\s*|\s*·\s*$", "", text).strip()
     return re.sub(r"\s{2,}", " ", text)
+
+
+def _summary(event: Event, cfg) -> str:
+    return _render_template(event, cfg, cfg.summary_format)
+
+
+def _alarm_text(event: Event, cfg) -> str:
+    """Notification text. Keeps the room even when the title does not -- an
+    alert 15 minutes out is exactly when the room is the useful part."""
+    return _render_template(event, cfg, cfg.alarm_format)
 
 
 def _description(event: Event, cfg, record: Optional[dict] = None) -> str:
@@ -178,7 +189,7 @@ def render(events: Sequence[Event], cfg, generated_at: Optional[dt.datetime] = N
             out.append("BEGIN:VALARM")
             out.append("ACTION:DISPLAY")
             out.append("TRIGGER:-PT%dM" % cfg.alarm_minutes)
-            out.append(_prop("DESCRIPTION", escape_text(_summary(event, cfg))))
+            out.append(_prop("DESCRIPTION", escape_text(_alarm_text(event, cfg))))
             out.append("END:VALARM")
         out.append("END:VEVENT")
 
