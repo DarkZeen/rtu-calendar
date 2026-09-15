@@ -1,0 +1,56 @@
+{
+  // RTU -> Calendar sync.  Comments (// and #) are allowed in this file.
+  // Regenerate the subject list any time with:  python3 -m rtusync subjects
+
+  "semester": {
+    "id": 31,
+    "label": "2026/2027 Rudens semestris"
+  },
+
+  "group": {
+    "semester_program_id": 39645,
+    // Reference only -- these are not used to fetch, they just label the calendar.
+    "program_code": "RMCW0",
+    "program_title": "Autotransporta inženierija",
+    "course": 1,
+    "group": "1"
+  },
+
+  // Where picker.html publishes your selection. Leave blank and fill it in
+  // on the page itself; "path" is the file the picker rewrites.
+  "github": {
+    "owner": "",
+    "repo": "",
+    "branch": "main",
+    "path": "config.json"
+  },
+
+  "language": "lv",              // "lv" or "en"; the other one goes in the description
+
+  "output": {
+    "path": "planning.ics",
+    "calendar_name": "RTU — Autotransporta inženierija",
+    "summary_format": "{subject} · {room}",   // {subject} {types} {type_short} {room} {room_full} {lecturer} {code}
+    "location_style": "full",    // "full" = Zunda krastmala 8 - 302, "short" = Zun. 8-302
+    "include_lecturer": true
+  },
+
+  // INCLUDE-LIST: only these subjects reach your calendar.
+  // Opt-in on purpose -- a subject that appears mid-semester stays out until you
+  // add it here, but every run logs what it dropped so you never lose one silently.
+  "subjects": {
+    "include": [
+      "Angļu valoda",
+      "Automobiļu izmēģinājumi",
+      "Automobiļu zinātnes pamati",
+      "Datortehnoloģijas transportā",
+      // "Elementārās matemātikas pamatnodaļas",   <- not enrolled (per spec §1)
+      "Ievads fizikā",
+      "Ievads specialitātē un autotransporta pētniecībā",
+      "Inženiermateriālu struktūra un īpašības",
+      "Matemātika",
+      "Studiju programmas tikšanās",
+      "Tēlotāja ģeometrija un inženiergrafika"
+    ]
+  }
+}

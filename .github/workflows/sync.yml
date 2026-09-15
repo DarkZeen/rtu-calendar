@@ -1,0 +1,58 @@
+name: Sync RTU timetable
+
+on:
+  schedule:
+    # Every hour at :17. Off the hour on purpose -- GitHub's scheduler is
+    # busiest exactly on the hour and silently delays jobs queued there.
+    # Your calendar client's own refresh rate is usually the real limit.
+    - cron: "17 * * * *"
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+  push:
+    paths:
+      - "config.json"         # re-publish immediately when the include-list changes
+      - "rtusync/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rtu-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # No setup-python step: rtusync is stdlib-only and ubuntu-latest ships
+      # a recent python3. Nothing to install, nothing to pin, nothing to rot.
+      - name: Show Python version
+        run: python3 --version
+
+      - name: Build planning.ics
+        run: python3 -m rtusync build
+
+      - name: Rebuild the subject picker
+        run: python3 -m rtusync picker
+
+      - name: Commit only if the timetable actually moved
+        run: |
+          FILES="planning.ics picker.html state.json changes.md"
+          if [ -z "$(git status --porcelain $FILES)" ]; then
+            echo "Timetable unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add $FILES
+          # Name the actual change in the commit subject where there is one.
+          SUBJECT="RTU timetable: $(date -u +%Y-%m-%d %H:%M)"
+          if [ -f changes.md ] && git diff --cached --quiet --exit-code changes.md; then
+            :
+          elif [ -f changes.md ]; then
+            N=$(git diff --cached -U0 changes.md | grep -c '^+- `' || true)
+            [ "$N" -gt 0 ] && SUBJECT="RTU timetable: $N change(s) $(date -u +%Y-%m-%d)"
+          fi
+          git commit -m "$SUBJECT"
+          git push
