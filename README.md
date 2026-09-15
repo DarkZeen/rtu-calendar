@@ -133,9 +133,11 @@ https://raw.githubusercontent.com/DarkZeen/rtu-calendar/main/planning.ics
 
 Two things to know about scheduled workflows:
 
-- GitHub **disables cron workflows after 60 days** with no repo activity. The
-  daily commits normally keep it alive, but a quiet stretch (say, a summer break
-  where the grid never changes) can trip it. Re-enable from the Actions tab.
+- GitHub **disables cron workflows after 60 days** with no repo activity. Since
+  the job commits nothing when nothing changed, a stable timetable would drift
+  into exactly that silence. A *Monthly heartbeat* step therefore rewrites
+  `.sync-alive` when the month rolls over — at most one commit a month, enough
+  to keep the schedule enabled without reintroducing noise.
 - The repo must be **public** for the raw URL to be subscribable without a
   token — which means your programme, group and weekly whereabouts are readable
   by anyone with the URL. Normally a fine trade for a timetable; worth making

@@ -37,13 +37,31 @@ jobs:
       - name: Rebuild the subject picker
         run: python3 -m rtusync picker
 
+      - name: Monthly heartbeat
+        run: |
+          # GitHub disables scheduled workflows after 60 days of repository
+          # inactivity. A stable timetable now produces no commits at all, so
+          # this guarantees one commit a month -- and never more than one.
+          MONTH=$(date -u '+%Y-%m')
+          MARKER=".sync-alive"
+          if [ ! -f "$MARKER" ] || [ "$(tail -n 1 "$MARKER")" != "$MONTH" ]; then
+            {
+              echo "# Touched once a month so GitHub keeps the scheduled workflow"
+              echo "# enabled. Its only moving part is the line below."
+              echo "$MONTH"
+            } > "$MARKER"
+            echo "heartbeat: wrote $MONTH"
+          else
+            echo "heartbeat: already current ($MONTH)"
+          fi
+
       - name: Commit only if the timetable actually moved
         run: |
           # changes.md only exists once something has actually changed, so build
           # the list from what is really on disk -- git add on a missing path is
           # a fatal error, not a no-op.
           FILES=""
-          for f in planning.ics picker.html state.json changes.md; do
+          for f in planning.ics picker.html state.json changes.md .sync-alive; do
             if [ -f "$f" ]; then FILES="$FILES $f"; fi
           done
           if [ -z "$FILES" ]; then
