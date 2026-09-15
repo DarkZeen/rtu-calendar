@@ -9,8 +9,9 @@ on:
   workflow_dispatch:          # lets you run it by hand from the Actions tab
   push:
     paths:
-      - "config.json"         # re-publish immediately when the include-list changes
+      - "config.json"             # re-publish immediately when the include-list changes
       - "rtusync/**"
+      - ".github/workflows/**"    # so a change to this file gets exercised at once
 
 permissions:
   contents: write
