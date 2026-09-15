@@ -30,10 +30,11 @@
   "output": {
     "path": "planning.ics",
     "calendar_name": "RTU — Autotransporta inženierija",
-    "summary_format": "{subject} · {types}",  // title: room lives in LOCATION instead
+    "summary_format": "{subject}",             // title: just the subject
     "alarm_format": "{subject} · {room}",   // notification text keeps the room
     "location_style": "full",    // "full" = Zunda krastmala 8 - 302, "short" = Zun. 8-302
     "include_lecturer": true,
+    "include_type": false,       // no "Lekcija / Praktiskie darbi" anywhere
     "alarm_minutes": 15          // reminder before each class; 0 disables
   },
 

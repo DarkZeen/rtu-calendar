@@ -85,6 +85,7 @@ Three further warnings fire when something moves underneath you:
 | `language` | `"lv"` or `"en"`. The other language goes into the event description, so both are always present. |
 | `output.summary_format` | Template. Placeholders: `{subject}` `{types}` `{type_short}` `{room}` `{room_full}` `{lecturer}` `{code}`. |
 | `output.alarm_minutes` | Minutes before each class to fire a reminder. `15` by default here; `0` emits no `VALARM` at all. |
+| `output.include_type` | Whether `Lekcija` / `Praktiskie darbi` appears in the description. Off here. Type parsing still runs regardless — it is how the subject is separated from the title. |
 | `output.alarm_format` | Notification text. Separate from the title on purpose, so the alert can name the room the title leaves out. |
 | `output.location_style` | `"full"` → `Ķīpsalas 6A - 428 (D4.2)` (better for Maps). `"short"` → `Ķīp. 6A-428 (D4.2)` (what's on the door). |
 | `semester.id` | Bump this and `group.semester_program_id` for next semester. |
@@ -223,8 +224,9 @@ Three things come out of that:
   subscribed calendar to refresh every 15 minutes, which is the better option
   if room changes are frequent.
 
-The room is also in the event **title** (`Matemātika · Ķīp. 6A-428`), so a
-change is visible in month view without opening anything.
+The room stays out of the title and lives in `LOCATION`, where the calendar
+shows it without cluttering a month grid — and in the reminder, where it is the
+point.
 
 ---
 
@@ -301,7 +303,7 @@ emit UTC. Verified across the 2026-10-25 DST boundary: a 10:15 Riga class is
 
 Each event carries a `VALARM` firing `alarm_minutes` before it starts. Its text
 comes from `alarm_format`, which is deliberately **not** the event title: the
-title stays clean (`Matemātika · Lekcija`) and leaves the room to `LOCATION`,
+title stays clean (just `Matemātika`) and leaves the room to `LOCATION`,
 while the notification says `Matemātika · Ķīp. 6A-428` — because a room is
 clutter in a month grid and the whole point of an alert fifteen minutes out.
 

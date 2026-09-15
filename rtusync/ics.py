@@ -115,7 +115,7 @@ def _description(event: Event, cfg, record: Optional[dict] = None) -> str:
         else:
             note = "! Telpa main\u012bta%s \u2014 bija: %s"
         lines.append(note % ((" " + moved_on) if moved_on else "", previous_room))
-    types = label_types(event.type_tokens, cfg.language)
+    types = label_types(event.type_tokens, cfg.language) if cfg.include_type else []
     if types:
         lines.append(("Type: " if cfg.language == "en" else "Veids: ") + ", ".join(types))
     lecturer = (event.lecturer_en if cfg.language == "en" else event.lecturer_lv) or event.lecturer_lv

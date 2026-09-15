@@ -72,6 +72,7 @@ class Config:
     summary_format: str = "{subject} · {types}"
     location_style: str = "full"          # full | short
     include_lecturer: bool = True
+    include_type: bool = True
     alarm_minutes: int = 0
     alarm_format: str = "{subject} · {room}"
     state_path: str = "state.json"
@@ -157,6 +158,7 @@ def load(path: str = DEFAULT_CONFIG_PATH) -> Config:
         summary_format=str(output.get("summary_format") or "{subject} · {types}"),
         location_style=location_style,
         include_lecturer=bool(output.get("include_lecturer", True)),
+        include_type=bool(output.get("include_type", True)),
         alarm_minutes=alarm_minutes,
         alarm_format=str(output.get("alarm_format") or "{subject} \u00b7 {room}"),
         state_path=str(output.get("state_path") or "state.json"),

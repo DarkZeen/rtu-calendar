@@ -13,13 +13,13 @@ X-PUBLISHED-TTL:PT1H
 SOURCE;VALUE=URI:https://nodarbibas.rtu.lv/
 BEGIN:VEVENT
 UID:1721554-109163@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260831T093000Z
 DTEND:20260831T110000Z
-SUMMARY:Studiju programmas tikšanās · Lekcija
+SUMMARY:Studiju programmas tikšanās
 LOCATION:Ķīpsalas 6B - 400
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gailis\nTelpa: Ķīp. 6B -400\n
- Kods: ABSTR1\nStudy program meeting\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\nTelpa: Ķīp. 6B -400\nKods: ABSTR1\nSt
+ udy program meeting\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Studiju programmas tikšanās
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -31,14 +31,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639115-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260901T071500Z
 DTEND:20260901T085000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -50,14 +49,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1754295-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260902T071500Z
 DTEND:20260902T085000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 k-1 - 116
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12 k-1
- -116\nKods: BM0289\nStructures and Properties of Engineering Materials\nht
- tps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12 k-1-116\nKods: BM02
+ 89\nStructures and Properties of Engineering Materials\nhttps://nodarbibas
+ .rtu.lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -70,13 +69,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719384-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260902T093000Z
 DTEND:20260902T110500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -88,14 +87,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677225-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260902T113000Z
 DTEND:20260902T130500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -107,14 +105,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742878-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260903T071500Z
 DTEND:20260903T085000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -126,14 +123,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639270-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260903T113000Z
 DTEND:20260903T130500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -145,14 +141,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742901-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260903T133000Z
 DTEND:20260903T150500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -165,13 +161,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1735437-98215@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260907T151500Z
 DTEND:20260907T183000Z
-SUMMARY:Automobiļu izmēģinājumi · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu izmēģinājumi
 LOCATION:Attālināti - Cits
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: O.Irbītis\nTe
- lpa: Att. -Cits\nKods: BM0939\nVehicle Testing\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: O.Irbītis\nTelpa: Att. -Cits\nKods: BM0939\nVehi
+ cle Testing\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Automobiļu izmēģinājumi
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -183,14 +179,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639116-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260908T071500Z
 DTEND:20260908T085000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -202,14 +197,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639151-98217@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260908T093000Z
 DTEND:20260908T110500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -221,14 +215,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719198-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260908T113000Z
 DTEND:20260908T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -240,14 +233,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719325-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260908T113000Z
 DTEND:20260908T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -259,14 +251,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675512-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260908T133000Z
 DTEND:20260908T150500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -278,14 +270,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763329-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260909T071500Z
 DTEND:20260909T085000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -297,13 +289,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719385-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260909T093000Z
 DTEND:20260909T110500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -315,14 +307,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677226-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260909T113000Z
 DTEND:20260909T130500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -334,16 +325,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672673-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260909T133000Z
 DTEND:20260909T150500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -356,14 +345,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742879-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260910T071500Z
 DTEND:20260910T085000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -375,14 +363,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639271-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260910T113000Z
 DTEND:20260910T130500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -394,14 +381,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742902-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260910T133000Z
 DTEND:20260910T150500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -414,14 +401,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639117-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260915T071500Z
 DTEND:20260915T085000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -433,14 +419,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639142-98195@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260915T093000Z
 DTEND:20260915T110500Z
-SUMMARY:Datortehnoloģijas transportā · Lekcija
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 
- (D4.2)\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbib
- as.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: BM
+ 0092\nComputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -452,14 +437,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1784514-114017@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260915T113000Z
 DTEND:20260915T130500Z
-SUMMARY:Datortehnoloģijas transportā · Lekcija
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6A - 256 (Z2.6)
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-256 
- (Z2.6)\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbib
- as.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-256 (Z2.6)\nKods: BM
+ 0092\nComputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -471,14 +455,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675513-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260915T133000Z
 DTEND:20260915T150500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -490,14 +474,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763330-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260916T071500Z
 DTEND:20260916T085000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -509,13 +493,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719386-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260916T093000Z
 DTEND:20260916T110500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -527,14 +511,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677227-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260916T113000Z
 DTEND:20260916T130500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -546,16 +529,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672674-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260916T133000Z
 DTEND:20260916T150500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -568,14 +549,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742880-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260917T071500Z
 DTEND:20260917T085000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -587,14 +567,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639272-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260917T113000Z
 DTEND:20260917T130500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -606,14 +585,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742903-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260917T133000Z
 DTEND:20260917T150500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -626,13 +605,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1735438-98215@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260921T151500Z
 DTEND:20260921T183000Z
-SUMMARY:Automobiļu izmēģinājumi · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu izmēģinājumi
 LOCATION:Attālināti - Cits
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: O.Irbītis\nTe
- lpa: Att. -Cits\nKods: BM0939\nVehicle Testing\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: O.Irbītis\nTelpa: Att. -Cits\nKods: BM0939\nVehi
+ cle Testing\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Automobiļu izmēģinājumi
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -644,14 +623,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639118-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260922T071500Z
 DTEND:20260922T085000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -663,14 +641,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639152-98217@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260922T093000Z
 DTEND:20260922T110500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -682,14 +659,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719200-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260922T113000Z
 DTEND:20260922T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -701,14 +677,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719327-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260922T113000Z
 DTEND:20260922T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -720,14 +695,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675514-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260922T133000Z
 DTEND:20260922T150500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -739,14 +714,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763331-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260923T071500Z
 DTEND:20260923T085000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -758,13 +733,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719387-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260923T093000Z
 DTEND:20260923T110500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -776,14 +751,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677228-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260923T113000Z
 DTEND:20260923T130500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -795,16 +769,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672675-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260923T133000Z
 DTEND:20260923T150500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -817,14 +789,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742881-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260924T071500Z
 DTEND:20260924T085000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -836,14 +807,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639273-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260924T113000Z
 DTEND:20260924T130500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -855,14 +825,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742904-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260924T133000Z
 DTEND:20260924T150500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -875,14 +845,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639119-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260929T071500Z
 DTEND:20260929T085000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -894,14 +863,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639143-98195@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260929T093000Z
 DTEND:20260929T110500Z
-SUMMARY:Datortehnoloģijas transportā · Lekcija
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 
- (D4.2)\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbib
- as.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: BM
+ 0092\nComputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -913,14 +881,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719201-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260929T113000Z
 DTEND:20260929T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -932,14 +899,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719328-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260929T113000Z
 DTEND:20260929T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -951,14 +917,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675515-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260929T133000Z
 DTEND:20260929T150500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -970,14 +936,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763332-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260930T071500Z
 DTEND:20260930T085000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -989,13 +955,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719388-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260930T093000Z
 DTEND:20260930T110500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1007,14 +973,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677229-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260930T113000Z
 DTEND:20260930T130500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1026,16 +991,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672676-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20260930T133000Z
 DTEND:20260930T150500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1048,14 +1011,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742882-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261001T071500Z
 DTEND:20261001T085000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1067,14 +1029,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639274-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261001T113000Z
 DTEND:20261001T130500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1086,14 +1047,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742905-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261001T133000Z
 DTEND:20261001T150500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1106,13 +1067,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1735439-98215@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261005T151500Z
 DTEND:20261005T183000Z
-SUMMARY:Automobiļu izmēģinājumi · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu izmēģinājumi
 LOCATION:Attālināti - Cits
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: O.Irbītis\nTe
- lpa: Att. -Cits\nKods: BM0939\nVehicle Testing\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: O.Irbītis\nTelpa: Att. -Cits\nKods: BM0939\nVehi
+ cle Testing\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Automobiļu izmēģinājumi
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1124,14 +1085,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639120-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261006T071500Z
 DTEND:20261006T085000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1143,14 +1103,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639153-98217@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261006T093000Z
 DTEND:20261006T110500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1162,14 +1121,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719202-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261006T113000Z
 DTEND:20261006T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1181,14 +1139,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719329-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261006T113000Z
 DTEND:20261006T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1200,14 +1157,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675516-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261006T133000Z
 DTEND:20261006T150500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1219,14 +1176,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763333-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261007T071500Z
 DTEND:20261007T085000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1238,13 +1195,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719389-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261007T093000Z
 DTEND:20261007T110500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1256,14 +1213,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677230-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261007T113000Z
 DTEND:20261007T130500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1275,16 +1231,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672677-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261007T133000Z
 DTEND:20261007T150500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1297,14 +1251,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742883-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261008T071500Z
 DTEND:20261008T085000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1316,14 +1269,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639275-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261008T113000Z
 DTEND:20261008T130500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1335,14 +1287,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742906-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261008T133000Z
 DTEND:20261008T150500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1355,14 +1307,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639121-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261013T071500Z
 DTEND:20261013T085000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1374,14 +1325,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639144-98195@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261013T093000Z
 DTEND:20261013T110500Z
-SUMMARY:Datortehnoloģijas transportā · Lekcija
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 
- (D4.2)\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbib
- as.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: BM
+ 0092\nComputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1393,14 +1343,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719203-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261013T113000Z
 DTEND:20261013T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1412,14 +1361,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719330-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261013T113000Z
 DTEND:20261013T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1431,14 +1379,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675517-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261013T133000Z
 DTEND:20261013T150500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1450,14 +1398,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742884-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261015T071500Z
 DTEND:20261015T085000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1469,14 +1416,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639276-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261015T113000Z
 DTEND:20261015T130500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1488,14 +1434,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742907-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261015T133000Z
 DTEND:20261015T150500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1508,13 +1454,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1735440-98215@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261019T151500Z
 DTEND:20261019T183000Z
-SUMMARY:Automobiļu izmēģinājumi · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu izmēģinājumi
 LOCATION:Attālināti - Cits
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: O.Irbītis\nTe
- lpa: Att. -Cits\nKods: BM0939\nVehicle Testing\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: O.Irbītis\nTelpa: Att. -Cits\nKods: BM0939\nVehi
+ cle Testing\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Automobiļu izmēģinājumi
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1526,14 +1472,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639122-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261020T071500Z
 DTEND:20261020T085000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1545,14 +1490,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639154-98217@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261020T093000Z
 DTEND:20261020T110500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1564,14 +1508,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719204-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1583,14 +1526,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719331-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261020T113000Z
 DTEND:20261020T130500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1602,14 +1544,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675518-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261020T133000Z
 DTEND:20261020T150500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1621,14 +1563,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763334-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261021T071500Z
 DTEND:20261021T085000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1640,13 +1582,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719390-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261021T093000Z
 DTEND:20261021T110500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1658,14 +1600,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677231-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261021T113000Z
 DTEND:20261021T130500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1677,16 +1618,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672678-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261021T133000Z
 DTEND:20261021T150500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1699,14 +1638,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742885-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261022T071500Z
 DTEND:20261022T085000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1718,14 +1656,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639277-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261022T113000Z
 DTEND:20261022T130500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1737,14 +1674,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742908-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261022T133000Z
 DTEND:20261022T150500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1757,14 +1694,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639123-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261027T081500Z
 DTEND:20261027T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1776,14 +1712,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639145-98195@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261027T103000Z
 DTEND:20261027T120500Z
-SUMMARY:Datortehnoloģijas transportā · Lekcija
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 
- (D4.2)\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbib
- as.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: BM
+ 0092\nComputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1795,14 +1730,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719205-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1814,14 +1748,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719332-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261027T123000Z
 DTEND:20261027T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1833,14 +1766,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675519-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261027T143000Z
 DTEND:20261027T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1852,14 +1785,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763335-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261028T081500Z
 DTEND:20261028T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1871,13 +1804,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719391-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261028T103000Z
 DTEND:20261028T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1889,14 +1822,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677232-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261028T123000Z
 DTEND:20261028T140500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1908,16 +1840,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672679-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261028T143000Z
 DTEND:20261028T160500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1930,14 +1860,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742886-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261029T081500Z
 DTEND:20261029T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1949,14 +1878,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639278-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261029T123000Z
 DTEND:20261029T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1968,14 +1896,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742909-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261029T143000Z
 DTEND:20261029T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -1988,13 +1916,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1735441-98215@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261102T161500Z
 DTEND:20261102T193000Z
-SUMMARY:Automobiļu izmēģinājumi · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu izmēģinājumi
 LOCATION:Attālināti - Cits
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: O.Irbītis\nTe
- lpa: Att. -Cits\nKods: BM0939\nVehicle Testing\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: O.Irbītis\nTelpa: Att. -Cits\nKods: BM0939\nVehi
+ cle Testing\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Automobiļu izmēģinājumi
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2006,14 +1934,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639124-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261103T081500Z
 DTEND:20261103T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2025,14 +1952,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639155-98217@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261103T103000Z
 DTEND:20261103T120500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2044,14 +1970,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719206-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2063,14 +1988,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719333-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261103T123000Z
 DTEND:20261103T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2082,14 +2006,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675520-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261103T143000Z
 DTEND:20261103T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2101,14 +2025,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763336-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261104T081500Z
 DTEND:20261104T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2120,13 +2044,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719392-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261104T103000Z
 DTEND:20261104T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2138,14 +2062,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677233-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261104T123000Z
 DTEND:20261104T140500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2157,16 +2080,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672680-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261104T143000Z
 DTEND:20261104T160500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2179,14 +2100,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742887-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261105T081500Z
 DTEND:20261105T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2198,14 +2118,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639279-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261105T123000Z
 DTEND:20261105T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2217,14 +2136,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742910-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261105T143000Z
 DTEND:20261105T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2237,14 +2156,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639125-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261110T081500Z
 DTEND:20261110T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2256,14 +2174,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639146-98195@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261110T103000Z
 DTEND:20261110T120500Z
-SUMMARY:Datortehnoloģijas transportā · Lekcija
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 
- (D4.2)\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbib
- as.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: BM
+ 0092\nComputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2275,14 +2192,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719207-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2294,14 +2210,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719334-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261110T123000Z
 DTEND:20261110T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2313,14 +2228,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675521-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261110T143000Z
 DTEND:20261110T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2332,14 +2247,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763337-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261111T081500Z
 DTEND:20261111T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2351,13 +2266,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719393-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261111T103000Z
 DTEND:20261111T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2369,14 +2284,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677234-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261111T123000Z
 DTEND:20261111T140500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2388,16 +2302,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672681-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261111T143000Z
 DTEND:20261111T160500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2410,14 +2322,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742888-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261112T081500Z
 DTEND:20261112T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2429,14 +2340,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639280-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261112T123000Z
 DTEND:20261112T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2448,14 +2358,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742911-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261112T143000Z
 DTEND:20261112T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2468,13 +2378,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1735442-98215@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261116T161500Z
 DTEND:20261116T193000Z
-SUMMARY:Automobiļu izmēģinājumi · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu izmēģinājumi
 LOCATION:Attālināti - Cits
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: O.Irbītis\nTe
- lpa: Att. -Cits\nKods: BM0939\nVehicle Testing\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: O.Irbītis\nTelpa: Att. -Cits\nKods: BM0939\nVehi
+ cle Testing\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Automobiļu izmēģinājumi
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2486,14 +2396,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639126-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261117T081500Z
 DTEND:20261117T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2505,14 +2414,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639156-98217@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261117T103000Z
 DTEND:20261117T120500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2524,14 +2432,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719208-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2543,14 +2450,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719335-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261117T123000Z
 DTEND:20261117T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2562,14 +2468,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675522-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261117T143000Z
 DTEND:20261117T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2581,14 +2487,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742889-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261119T081500Z
 DTEND:20261119T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2600,14 +2505,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639281-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261119T123000Z
 DTEND:20261119T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2619,14 +2523,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742912-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261119T143000Z
 DTEND:20261119T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2639,14 +2543,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639127-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261124T081500Z
 DTEND:20261124T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2658,14 +2561,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639147-98195@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261124T103000Z
 DTEND:20261124T120500Z
-SUMMARY:Datortehnoloģijas transportā · Lekcija
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 
- (D4.2)\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbib
- as.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: BM
+ 0092\nComputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2677,14 +2579,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719209-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2696,14 +2597,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719336-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261124T123000Z
 DTEND:20261124T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2715,14 +2615,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675523-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261124T143000Z
 DTEND:20261124T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2734,14 +2634,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763338-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261125T081500Z
 DTEND:20261125T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2753,13 +2653,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719394-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261125T103000Z
 DTEND:20261125T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2771,14 +2671,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677235-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261125T123000Z
 DTEND:20261125T140500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2790,16 +2689,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672682-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261125T143000Z
 DTEND:20261125T160500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2812,14 +2709,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742890-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261126T081500Z
 DTEND:20261126T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2831,14 +2727,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639282-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261126T123000Z
 DTEND:20261126T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2850,14 +2745,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742913-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261126T143000Z
 DTEND:20261126T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2870,13 +2765,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1735443-98215@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261130T161500Z
 DTEND:20261130T193000Z
-SUMMARY:Automobiļu izmēģinājumi · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu izmēģinājumi
 LOCATION:Attālināti - Cits
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: O.Irbītis\nTe
- lpa: Att. -Cits\nKods: BM0939\nVehicle Testing\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: O.Irbītis\nTelpa: Att. -Cits\nKods: BM0939\nVehi
+ cle Testing\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Automobiļu izmēģinājumi
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2888,14 +2783,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639128-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261201T081500Z
 DTEND:20261201T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2907,14 +2801,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639157-98217@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261201T103000Z
 DTEND:20261201T120500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2926,14 +2819,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719210-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2945,14 +2837,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719337-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261201T123000Z
 DTEND:20261201T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2964,14 +2855,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675524-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261201T143000Z
 DTEND:20261201T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -2983,14 +2874,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763339-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261202T081500Z
 DTEND:20261202T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3002,13 +2893,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719395-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261202T103000Z
 DTEND:20261202T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3020,14 +2911,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677236-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261202T123000Z
 DTEND:20261202T140500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3039,16 +2929,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672683-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261202T143000Z
 DTEND:20261202T160500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3061,14 +2949,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742891-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261203T081500Z
 DTEND:20261203T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3080,14 +2967,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639283-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261203T123000Z
 DTEND:20261203T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3099,14 +2985,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742914-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261203T143000Z
 DTEND:20261203T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3119,14 +3005,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639129-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261208T081500Z
 DTEND:20261208T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3138,14 +3023,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639148-98195@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261208T103000Z
 DTEND:20261208T120500Z
-SUMMARY:Datortehnoloģijas transportā · Lekcija
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 
- (D4.2)\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbib
- as.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: BM
+ 0092\nComputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3157,14 +3041,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719211-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3176,14 +3059,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719338-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261208T123000Z
 DTEND:20261208T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3195,14 +3077,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675525-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261208T143000Z
 DTEND:20261208T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3214,14 +3096,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763340-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261209T081500Z
 DTEND:20261209T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3233,13 +3115,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719396-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261209T103000Z
 DTEND:20261209T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3251,14 +3133,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677237-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261209T123000Z
 DTEND:20261209T140500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3270,16 +3151,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672684-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261209T143000Z
 DTEND:20261209T160500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3292,14 +3171,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742892-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261210T081500Z
 DTEND:20261210T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3311,14 +3189,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639284-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261210T123000Z
 DTEND:20261210T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3330,14 +3207,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742915-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261210T143000Z
 DTEND:20261210T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3350,13 +3227,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1735444-98215@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261214T161500Z
 DTEND:20261214T193000Z
-SUMMARY:Automobiļu izmēģinājumi · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu izmēģinājumi
 LOCATION:Attālināti - Cits
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: O.Irbītis\nTe
- lpa: Att. -Cits\nKods: BM0939\nVehicle Testing\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: O.Irbītis\nTelpa: Att. -Cits\nKods: BM0939\nVehi
+ cle Testing\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Automobiļu izmēģinājumi
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3368,14 +3245,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639130-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261215T081500Z
 DTEND:20261215T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3387,14 +3263,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639158-98217@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261215T103000Z
 DTEND:20261215T120500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3406,14 +3281,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719212-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3425,14 +3299,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719339-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261215T123000Z
 DTEND:20261215T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3444,14 +3317,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675526-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261215T143000Z
 DTEND:20261215T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3463,14 +3336,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763341-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261216T081500Z
 DTEND:20261216T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3482,13 +3355,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719397-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261216T103000Z
 DTEND:20261216T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3500,14 +3373,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1677238-98212@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261216T123000Z
 DTEND:20261216T140500Z
-SUMMARY:Ievads fizikā · Praktiskie darbi
+SUMMARY:Ievads fizikā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: I.Gorņevs\nTelpa: Ķīp
- . 6A-428 (D4.2)\nKods: DA0366\nIntroduction to Physics\nhttps://nodarbibas
- .rtu.lv/
+DESCRIPTION:Pasniedzējs: I.Gorņevs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DA
+ 0366\nIntroduction to Physics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads fizikā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3519,16 +3391,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1672685-98190@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261216T143000Z
 DTEND:20261216T160500Z
-SUMMARY:Ievads specialitātē un autotransporta pētniecībā · Lekcija\, 
- Praktiskie darbi
+SUMMARY:Ievads specialitātē un autotransporta pētniecībā
 LOCATION:Ķīpsalas 6B - 422
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: M.Gailis\, J.R
- udzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -422\nKods: BM0435
- \nIntroduction to Speciality and Automotive Research\nhttps://nodarbibas.r
- tu.lv/
+DESCRIPTION:Pasniedzējs: M.Gailis\, J.Rudzītis\, J.Kreicbergs\, G.Zalcman
+ is\nTelpa: Ķīp. 6B -422\nKods: BM0435\nIntroduction to Speciality and Au
+ tomotive Research\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Ievads specialitātē un autotransporta pētniecībā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3541,14 +3411,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742893-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261217T081500Z
 DTEND:20261217T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3560,14 +3429,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639285-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261217T123000Z
 DTEND:20261217T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3579,14 +3447,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742916-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261217T143000Z
 DTEND:20261217T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3599,14 +3467,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639131-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261222T081500Z
 DTEND:20261222T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3618,14 +3485,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639149-98195@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261222T103000Z
 DTEND:20261222T120500Z
-SUMMARY:Datortehnoloģijas transportā · Lekcija
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 
- (D4.2)\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbib
- as.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: BM
+ 0092\nComputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3637,14 +3503,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719213-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261222T123000Z
 DTEND:20261222T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3656,14 +3521,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719340-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261222T123000Z
 DTEND:20261222T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3675,14 +3539,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675527-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261222T143000Z
 DTEND:20261222T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3694,14 +3558,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763342-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261223T081500Z
 DTEND:20261223T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3713,13 +3577,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719398-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20261223T103000Z
 DTEND:20261223T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3731,13 +3595,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1735445-98215@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270104T161500Z
 DTEND:20270104T193000Z
-SUMMARY:Automobiļu izmēģinājumi · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu izmēģinājumi
 LOCATION:Attālināti - Cits
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: O.Irbītis\nTe
- lpa: Att. -Cits\nKods: BM0939\nVehicle Testing\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: O.Irbītis\nTelpa: Att. -Cits\nKods: BM0939\nVehi
+ cle Testing\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Automobiļu izmēģinājumi
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3749,14 +3613,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639132-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270105T081500Z
 DTEND:20270105T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3768,14 +3631,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639159-98217@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270105T103000Z
 DTEND:20270105T120500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3787,14 +3649,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719214-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270105T123000Z
 DTEND:20270105T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3806,14 +3667,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719341-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270105T123000Z
 DTEND:20270105T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3825,14 +3685,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675528-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270105T143000Z
 DTEND:20270105T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3844,14 +3704,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763343-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270106T081500Z
 DTEND:20270106T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3863,13 +3723,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719399-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270106T103000Z
 DTEND:20270106T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3881,14 +3741,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742894-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270107T081500Z
 DTEND:20270107T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3900,14 +3759,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639286-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270107T123000Z
 DTEND:20270107T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3919,14 +3777,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742917-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270107T143000Z
 DTEND:20270107T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3939,14 +3797,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639133-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270112T081500Z
 DTEND:20270112T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3958,14 +3815,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639150-98195@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270112T103000Z
 DTEND:20270112T120500Z
-SUMMARY:Datortehnoloģijas transportā · Lekcija
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 
- (D4.2)\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbib
- as.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: BM
+ 0092\nComputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3977,14 +3833,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719215-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270112T123000Z
 DTEND:20270112T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -3996,14 +3851,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719342-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270112T123000Z
 DTEND:20270112T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4015,14 +3869,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675529-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270112T143000Z
 DTEND:20270112T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4034,14 +3888,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763344-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270113T081500Z
 DTEND:20270113T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4053,13 +3907,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719400-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270113T103000Z
 DTEND:20270113T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4071,14 +3925,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742895-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270114T081500Z
 DTEND:20270114T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4090,14 +3943,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639287-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270114T123000Z
 DTEND:20270114T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4109,14 +3961,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742918-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270114T143000Z
 DTEND:20270114T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4129,13 +3981,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1735446-98215@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270118T161500Z
 DTEND:20270118T193000Z
-SUMMARY:Automobiļu izmēģinājumi · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu izmēģinājumi
 LOCATION:Attālināti - Cits
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: O.Irbītis\nTe
- lpa: Att. -Cits\nKods: BM0939\nVehicle Testing\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: O.Irbītis\nTelpa: Att. -Cits\nKods: BM0939\nVehi
+ cle Testing\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Automobiļu izmēģinājumi
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4147,14 +3999,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639134-98198@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270119T081500Z
 DTEND:20270119T095000Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4166,14 +4017,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639160-98217@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270119T103000Z
 DTEND:20270119T120500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4185,14 +4035,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719216-109041@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270119T123000Z
 DTEND:20270119T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 225
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-225\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-225\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4204,14 +4053,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719343-98196@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270119T123000Z
 DTEND:20270119T140500Z
-SUMMARY:Datortehnoloģijas transportā · Praktiskie darbi
+SUMMARY:Datortehnoloģijas transportā
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: M.Gorobecs\nTelpa: Ķīp
- . 6-228\nKods: BM0092\nComputer Technologies in Transport\nhttps://nodarbi
- bas.rtu.lv/
+DESCRIPTION:Pasniedzējs: M.Gorobecs\nTelpa: Ķīp. 6-228\nKods: BM0092\nCo
+ mputer Technologies in Transport\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Datortehnoloģijas transportā
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4223,14 +4071,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1675530-98213@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270119T143000Z
 DTEND:20270119T160500Z
-SUMMARY:Automobiļu zinātnes pamati · Lekcija\, Praktiskie darbi
+SUMMARY:Automobiļu zinātnes pamati
 LOCATION:Ķīpsalas 6B - 318
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: J.Rudzītis\, 
- J.Kreicbergs\, G.Zalcmanis\nTelpa: Ķīp. 6B -318\nKods: BM0940\nAutomotiv
- e Science Fundamentals\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: J.Rudzītis\, J.Kreicbergs\, G.Zalcmanis\nTelpa: 
+ Ķīp. 6B -318\nKods: BM0940\nAutomotive Science Fundamentals\nhttps://nod
+ arbibas.rtu.lv/
 CATEGORIES:Automobiļu zinātnes pamati
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4242,14 +4090,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1763345-97182@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270120T081500Z
 DTEND:20270120T095000Z
-SUMMARY:Inženiermateriālu struktūra un īpašības · Lekcija
+SUMMARY:Inženiermateriālu struktūra un īpašības
 LOCATION:Āzenes 12 - 103
-DESCRIPTION:Veids: Lekcija\nPasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103
- \nKods: BM0289\nStructures and Properties of Engineering Materials\nhttps:
- //nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: G.Muižnieks\nTelpa: Āze. 12-103\nKods: BM0289\n
+ Structures and Properties of Engineering Materials\nhttps://nodarbibas.rtu
+ .lv/
 CATEGORIES:Inženiermateriālu struktūra un īpašības
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4261,13 +4109,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1719401-98208@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270120T103000Z
 DTEND:20270120T120500Z
-SUMMARY:Angļu valoda · Praktiskie darbi
+SUMMARY:Angļu valoda
 LOCATION:Ķīpsalas 6 - 307
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: L.Zakoyan\nTelpa: Ķīp.
-  6-307\nKods: DE0421\nThe English Language\nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: L.Zakoyan\nTelpa: Ķīp. 6-307\nKods: DE0421\nThe
+  English Language\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Angļu valoda
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4279,14 +4127,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742896-100064@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270121T081500Z
 DTEND:20270121T095000Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6 - 228
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- -228\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\nhttps:/
- /nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6-228\nKods: BM0298\nDescr
+ iptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4298,14 +4145,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1639288-98210@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270121T123000Z
 DTEND:20270121T140500Z
-SUMMARY:Matemātika · Lekcija\, Praktiskie darbi
+SUMMARY:Matemātika
 LOCATION:Ķīpsalas 6A - 428 (D4.2)
-DESCRIPTION:Veids: Lekcija\, Praktiskie darbi\nPasniedzējs: I.Eglīte\nTel
- pa: Ķīp. 6A-428 (D4.2)\nKods: DE0002\nMathematics\nhttps://nodarbibas.rt
- u.lv/
+DESCRIPTION:Pasniedzējs: I.Eglīte\nTelpa: Ķīp. 6A-428 (D4.2)\nKods: DE0
+ 002\nMathematics\nhttps://nodarbibas.rtu.lv/
 CATEGORIES:Matemātika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
@@ -4317,14 +4163,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1742919-98211@nodarbibas.rtu.lv
-DTSTAMP:20260915T203953Z
+DTSTAMP:20260915T204823Z
 DTSTART:20270121T143000Z
 DTEND:20270121T160500Z
-SUMMARY:Tēlotāja ģeometrija un inženiergrafika · Praktiskie darbi
+SUMMARY:Tēlotāja ģeometrija un inženiergrafika
 LOCATION:Ķīpsalas 6A - 464 (P4.7)
-DESCRIPTION:Veids: Praktiskie darbi\nPasniedzējs: Z.Veide\nTelpa: Ķīp. 6
- A-464 (P4.7)\nKods: BM0298\nDescriptive Geometry and Engineering Graphics\
- nhttps://nodarbibas.rtu.lv/
+DESCRIPTION:Pasniedzējs: Z.Veide\nTelpa: Ķīp. 6A-464 (P4.7)\nKods: BM029
+ 8\nDescriptive Geometry and Engineering Graphics\nhttps://nodarbibas.rtu.l
+ v/
 CATEGORIES:Tēlotāja ģeometrija un inženiergrafika
 URL;VALUE=URI:https://nodarbibas.rtu.lv/
 TRANSP:OPAQUE
