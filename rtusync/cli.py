@@ -530,8 +530,11 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         return 2
     except RtuApiError as exc:
         _err("RTU API error: %s" % exc)
-        _err("The site may be down, or it changed its internal API. Check %s"
-             % "https://nodarbibas.rtu.lv/")
+        _err("")
+        _err("Nothing was written — the existing calendar is untouched, so it is")
+        _err("stale rather than wrong. If this is a timeout or a 5xx, it is RTU's")
+        _err("side and the next scheduled run will pick it up. Check the site:")
+        _err("  https://nodarbibas.rtu.lv/")
         return 3
     except KeyboardInterrupt:
         return 130

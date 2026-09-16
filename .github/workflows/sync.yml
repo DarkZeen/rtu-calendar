@@ -23,6 +23,8 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    # RTU occasionally 524s for minutes at a time; never let that pin a runner.
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v5
 

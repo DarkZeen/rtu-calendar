@@ -334,3 +334,9 @@ device strips them on arrival.
 - Group-level data only. The include-list is the only thing making it yours.
 - If RTU changes its internal API this breaks with no warning. The failure is
   loud (non-zero exit, message naming the endpoint), not silent.
+- **RTU's own server goes down.** It periodically returns `HTTP 524` (its
+  Cloudflare front giving up on its backend) for minutes at a time. Requests are
+  retried four times with exponential backoff; if they all fail the run aborts
+  **before writing anything**, so the published calendar is left stale rather
+  than emptied or half-written. The next hourly run picks it up. A failed run
+  therefore means "RTU was unreachable", not "your calendar is broken".

@@ -29,9 +29,9 @@ class RtuApi:
     def __init__(
         self,
         base_url: str = BASE_URL,
-        timeout: float = 30.0,
-        retries: int = 3,
-        backoff: float = 1.5,
+        timeout: float = 45.0,
+        retries: int = 4,
+        backoff: float = 2.0,
     ) -> None:
         self.base_url = base_url.rstrip("/")
         self.timeout = timeout
@@ -62,9 +62,14 @@ class RtuApi:
                 last = exc
                 if exc.code < 500:  # 4xx will not fix itself
                     break
+                # 502/503/504/524 are RTU's own backend or its Cloudflare front
+                # giving up. Worth retrying, but it is their outage, not ours.
             except (urllib.error.URLError, TimeoutError, OSError) as exc:
                 last = exc
-        raise RtuApiError("%s failed after %d attempt(s): %s" % (url, self.retries, last))
+        detail = str(last)
+        if isinstance(last, urllib.error.HTTPError) and last.code >= 500:
+            detail = "HTTP %d from RTU (their server, not this tool)" % last.code
+        raise RtuApiError("%s failed after %d attempt(s): %s" % (url, self.retries, detail))
 
     def _post(self, path: str, **params: Any) -> Any:
         body = urllib.parse.urlencode(params).encode("utf-8")
