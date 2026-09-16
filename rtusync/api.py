@@ -11,6 +11,7 @@ from __future__ import annotations
 import html
 import json
 import re
+import socket
 import time
 import urllib.error
 import urllib.parse
@@ -69,6 +70,12 @@ class RtuApi:
         detail = str(last)
         if isinstance(last, urllib.error.HTTPError) and last.code >= 500:
             detail = "HTTP %d from RTU (their server, not this tool)" % last.code
+        elif isinstance(last, (TimeoutError, socket.timeout)) or "timed out" in detail:
+            # RTU's Cloudflare front does not surface its 524 until ~125s, well
+            # past any sane client timeout -- so a stalled backend reaches us as
+            # a socket timeout, not as the 5xx it really is. Say so.
+            detail = ("no response within %gs (RTU's server is stalling, not this tool)"
+                      % self.timeout)
         raise RtuApiError("%s failed after %d attempt(s): %s" % (url, self.retries, detail))
 
     def _post(self, path: str, **params: Any) -> Any:
