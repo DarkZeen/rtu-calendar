@@ -480,94 +480,6 @@
    "start": "2026-09-16T16:30:00+03:00",
    "subj": "Ievads specialitātē un autotransporta pētniecībā"
   },
-  "1672675-98190": {
-   "end": "2026-09-23T18:05:00+03:00",
-   "h": "3432affae340dcbb",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-09-23T16:30:00+03:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
-  "1672676-98190": {
-   "end": "2026-09-30T18:05:00+03:00",
-   "h": "2a56cace7562fe10",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-09-30T16:30:00+03:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
-  "1672677-98190": {
-   "end": "2026-10-07T18:05:00+03:00",
-   "h": "477a5e66b917baef",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-10-07T16:30:00+03:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
-  "1672678-98190": {
-   "end": "2026-10-21T18:05:00+03:00",
-   "h": "d95e2a143739631b",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-10-21T16:30:00+03:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
-  "1672679-98190": {
-   "end": "2026-10-28T18:05:00+02:00",
-   "h": "b399ade7092ee2d7",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-10-28T16:30:00+02:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
-  "1672680-98190": {
-   "end": "2026-11-04T18:05:00+02:00",
-   "h": "92419354d764ff92",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-11-04T16:30:00+02:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
-  "1672681-98190": {
-   "end": "2026-11-11T18:05:00+02:00",
-   "h": "ce48a4cce0765f37",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-11-11T16:30:00+02:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
-  "1672682-98190": {
-   "end": "2026-11-25T18:05:00+02:00",
-   "h": "6c3f04ee6396632c",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-11-25T16:30:00+02:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
-  "1672683-98190": {
-   "end": "2026-12-02T18:05:00+02:00",
-   "h": "36aa11034c5046e6",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-12-02T16:30:00+02:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
-  "1672684-98190": {
-   "end": "2026-12-09T18:05:00+02:00",
-   "h": "2f7c1022d1c500e6",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-12-09T16:30:00+02:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
-  "1672685-98190": {
-   "end": "2026-12-16T18:05:00+02:00",
-   "h": "73f4e5e4e8a7c731",
-   "room": "Ķīpsalas 6B - 422",
-   "seq": 0,
-   "start": "2026-12-16T16:30:00+02:00",
-   "subj": "Ievads specialitātē un autotransporta pētniecībā"
-  },
   "1675512-98213": {
    "end": "2026-09-08T18:05:00+03:00",
    "h": "30953a0bcd9eb235",
@@ -1695,9 +1607,105 @@
    "seq": 0,
    "start": "2026-09-15T14:30:00+03:00",
    "subj": "Datortehnoloģijas transportā"
+  },
+  "1787188-114276": {
+   "end": "2026-09-23T18:05:00+03:00",
+   "h": "92bbed557b7a9fea",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-09-23T16:30:00+03:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787189-114276": {
+   "end": "2026-09-30T18:05:00+03:00",
+   "h": "b4bc0e1a0e31aa51",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-09-30T16:30:00+03:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787190-114277": {
+   "end": "2026-10-07T18:05:00+03:00",
+   "h": "c8a3a8a19e268b03",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-10-07T16:30:00+03:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787191-114277": {
+   "end": "2026-11-04T18:05:00+02:00",
+   "h": "240a92d3e7284c1a",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-11-04T16:30:00+02:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787194-114278": {
+   "end": "2026-10-21T18:05:00+03:00",
+   "h": "484f3e7f7556118d",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-10-21T16:30:00+03:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787195-114278": {
+   "end": "2026-10-28T18:05:00+02:00",
+   "h": "b3d8298e80fe52bf",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-10-28T16:30:00+02:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787197-114280": {
+   "end": "2026-11-11T18:05:00+02:00",
+   "h": "7f472601268c0f0b",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-11-11T16:30:00+02:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787198-114280": {
+   "end": "2026-11-25T18:05:00+02:00",
+   "h": "87aef1f30b5f5d57",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-11-25T16:30:00+02:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787199-114280": {
+   "end": "2026-12-02T18:05:00+02:00",
+   "h": "3bf7c1ef1815b957",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-12-02T16:30:00+02:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787200-114281": {
+   "end": "2026-12-09T18:05:00+02:00",
+   "h": "f918eaf960c9272d",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-12-09T16:30:00+02:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787201-114281": {
+   "end": "2026-12-16T18:05:00+02:00",
+   "h": "ee8482dcd16b5e0d",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2026-12-16T16:30:00+02:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
+  },
+  "1787607-114309": {
+   "end": "2027-01-20T18:05:00+02:00",
+   "h": "c6af57d9129cabff",
+   "room": "Ķīpsalas 6B - 422",
+   "seq": 0,
+   "start": "2027-01-20T16:30:00+02:00",
+   "subj": "Ievads specialitātē un autotransporta pētniecībā"
   }
  },
  "include_hash": "5111cc2754e8314e",
- "updated": "2026-09-15T21:00:03Z",
+ "updated": "2026-09-17T11:41:07Z",
  "version": 1
 }
