@@ -4,6 +4,12 @@ Every room move, time shift, addition and cancellation RTU has made since
 this calendar started syncing. Newest first.
 
 <!--log-->
+## 2026-09-29 08:30 UTC
+
+- `+ 2026-09-29 14:30  Datortehnoloģijas transportā`
+- `- 2026-09-29 14:30  Datortehnoloģijas transportā`
+- `- 2026-09-29 14:30  Datortehnoloģijas transportā`
+
 ## 2026-09-17 11:41 UTC
 
 - `+ 2026-09-23 16:30  Ievads specialitātē un autotransporta pētniecībā`
