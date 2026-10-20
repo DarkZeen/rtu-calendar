@@ -4,6 +4,14 @@ Every room move, time shift, addition and cancellation RTU has made since
 this calendar started syncing. Newest first.
 
 <!--log-->
+## 2026-10-20 19:16 UTC
+
+- `- 2026-12-23 12:30  Angļu valoda`
+- `+ 2027-01-06 12:30  Angļu valoda`
+- `- 2027-01-06 12:30  Angļu valoda`
+- `- 2027-01-13 12:30  Angļu valoda`
+- `- 2027-01-20 12:30  Angļu valoda`
+
 ## 2026-10-08 15:36 UTC
 
 - `~ 2026-09-08 16:30  Automobiļu zinātnes pamati`
