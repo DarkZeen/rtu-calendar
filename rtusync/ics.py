@@ -33,7 +33,7 @@ def escape_text(value: str) -> str:
     if value is None:
         return ""
     value = value.replace("\\", "\\\\")
-    value = value.replace(";", "\;").replace(",", "\\,")
+    value = value.replace(";", "\\;").replace(",", "\\,")
     value = value.replace("\r\n", "\n").replace("\r", "\n").replace("\n", "\\n")
     return value
 

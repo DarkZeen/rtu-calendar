@@ -52,7 +52,9 @@ class RtuApi:
             headers["Content-Type"] = "application/x-www-form-urlencoded; charset=UTF-8"
 
         last: Optional[Exception] = None
+        tried = 0
         for attempt in range(self.retries):
+            tried += 1
             if attempt:
                 time.sleep(self.backoff ** attempt)
             try:
@@ -70,13 +72,17 @@ class RtuApi:
         detail = str(last)
         if isinstance(last, urllib.error.HTTPError) and last.code >= 500:
             detail = "HTTP %d from RTU (their server, not this tool)" % last.code
+        elif isinstance(last, urllib.error.HTTPError):
+            # A 4xx is not retried. A one-off is RTU misbehaving; one that
+            # keeps coming back means they changed the endpoint under us.
+            detail = "HTTP %d from RTU (rejected the request, not retried)" % last.code
         elif isinstance(last, (TimeoutError, socket.timeout)) or "timed out" in detail:
             # RTU's Cloudflare front does not surface its 524 until ~125s, well
             # past any sane client timeout -- so a stalled backend reaches us as
             # a socket timeout, not as the 5xx it really is. Say so.
             detail = ("no response within %gs (RTU's server is stalling, not this tool)"
                       % self.timeout)
-        raise RtuApiError("%s failed after %d attempt(s): %s" % (url, self.retries, detail))
+        raise RtuApiError("%s failed after %d attempt(s): %s" % (url, tried, detail))
 
     def _post(self, path: str, **params: Any) -> Any:
         body = urllib.parse.urlencode(params).encode("utf-8")

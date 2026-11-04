@@ -532,8 +532,9 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         _err("RTU API error: %s" % exc)
         _err("")
         _err("Nothing was written — the existing calendar is untouched, so it is")
-        _err("stale rather than wrong. If this is a timeout or a 5xx, it is RTU's")
-        _err("side and the next scheduled run will pick it up. Check the site:")
+        _err("stale rather than wrong. A timeout, a 5xx or a one-off 4xx is RTU's")
+        _err("side and the next scheduled run will pick it up. A 4xx on every run")
+        _err("means RTU changed its API and rtusync/api.py needs updating. Check:")
         _err("  https://nodarbibas.rtu.lv/")
         return 3
     except KeyboardInterrupt:
