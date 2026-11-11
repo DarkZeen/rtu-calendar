@@ -4,6 +4,29 @@ Every room move, time shift, addition and cancellation RTU has made since
 this calendar started syncing. Newest first.
 
 <!--log-->
+## 2026-11-11 14:31 UTC
+
+- `+ 2026-11-12 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2026-11-12 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `+ 2026-11-19 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2026-11-19 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `+ 2026-11-26 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2026-11-26 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `+ 2026-12-03 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2026-12-03 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `+ 2026-12-10 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2026-12-10 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `+ 2026-12-17 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2026-12-17 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `+ 2027-01-07 10:15  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2027-01-07 10:15  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2027-01-07 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `+ 2027-01-14 10:15  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2027-01-14 10:15  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2027-01-14 16:30  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2027-01-21 10:15  Tēlotāja ģeometrija un inženiergrafika`
+- `- 2027-01-21 16:30  Tēlotāja ģeometrija un inženiergrafika`
+
 ## 2026-10-20 19:16 UTC
 
 - `- 2026-12-23 12:30  Angļu valoda`

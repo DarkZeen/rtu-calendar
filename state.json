@@ -1240,28 +1240,20 @@
    "start": "2026-12-17T10:15:00+02:00",
    "subj": "Tēlotāja ģeometrija un inženiergrafika"
   },
-  "1742894-100064": {
+  "1742894-117858": {
    "end": "2027-01-07T11:50:00+02:00",
-   "h": "935a79ff17820ec8",
+   "h": "019c7d38b03d7916",
    "room": "Ķīpsalas 6 - 228",
    "seq": 0,
    "start": "2027-01-07T10:15:00+02:00",
    "subj": "Tēlotāja ģeometrija un inženiergrafika"
   },
-  "1742895-100064": {
+  "1742895-117860": {
    "end": "2027-01-14T11:50:00+02:00",
-   "h": "e48ca37b00cff257",
+   "h": "5971e9c986cf6e52",
    "room": "Ķīpsalas 6 - 228",
    "seq": 0,
    "start": "2027-01-14T10:15:00+02:00",
-   "subj": "Tēlotāja ģeometrija un inženiergrafika"
-  },
-  "1742896-100064": {
-   "end": "2027-01-21T11:50:00+02:00",
-   "h": "8159612322e4cf5b",
-   "room": "Ķīpsalas 6 - 228",
-   "seq": 0,
-   "start": "2027-01-21T10:15:00+02:00",
    "subj": "Tēlotāja ģeometrija un inženiergrafika"
   },
   "1742901-98211": {
@@ -1342,78 +1334,6 @@
    "room": "Ķīpsalas 6A - 464 (P4.7)",
    "seq": 0,
    "start": "2026-11-05T16:30:00+02:00",
-   "subj": "Tēlotāja ģeometrija un inženiergrafika"
-  },
-  "1742911-98211": {
-   "end": "2026-11-12T18:05:00+02:00",
-   "h": "cafb817119dad2f0",
-   "room": "Ķīpsalas 6A - 464 (P4.7)",
-   "seq": 0,
-   "start": "2026-11-12T16:30:00+02:00",
-   "subj": "Tēlotāja ģeometrija un inženiergrafika"
-  },
-  "1742912-98211": {
-   "end": "2026-11-19T18:05:00+02:00",
-   "h": "2d4b3d5fabd550af",
-   "room": "Ķīpsalas 6A - 464 (P4.7)",
-   "seq": 0,
-   "start": "2026-11-19T16:30:00+02:00",
-   "subj": "Tēlotāja ģeometrija un inženiergrafika"
-  },
-  "1742913-98211": {
-   "end": "2026-11-26T18:05:00+02:00",
-   "h": "3a11810e2410f0f7",
-   "room": "Ķīpsalas 6A - 464 (P4.7)",
-   "seq": 0,
-   "start": "2026-11-26T16:30:00+02:00",
-   "subj": "Tēlotāja ģeometrija un inženiergrafika"
-  },
-  "1742914-98211": {
-   "end": "2026-12-03T18:05:00+02:00",
-   "h": "8d5b924f5bc276c0",
-   "room": "Ķīpsalas 6A - 464 (P4.7)",
-   "seq": 0,
-   "start": "2026-12-03T16:30:00+02:00",
-   "subj": "Tēlotāja ģeometrija un inženiergrafika"
-  },
-  "1742915-98211": {
-   "end": "2026-12-10T18:05:00+02:00",
-   "h": "bc34d243d7aec681",
-   "room": "Ķīpsalas 6A - 464 (P4.7)",
-   "seq": 0,
-   "start": "2026-12-10T16:30:00+02:00",
-   "subj": "Tēlotāja ģeometrija un inženiergrafika"
-  },
-  "1742916-98211": {
-   "end": "2026-12-17T18:05:00+02:00",
-   "h": "7143003bd7c2fb41",
-   "room": "Ķīpsalas 6A - 464 (P4.7)",
-   "seq": 0,
-   "start": "2026-12-17T16:30:00+02:00",
-   "subj": "Tēlotāja ģeometrija un inženiergrafika"
-  },
-  "1742917-98211": {
-   "end": "2027-01-07T18:05:00+02:00",
-   "h": "f364db111db1e0f9",
-   "room": "Ķīpsalas 6A - 464 (P4.7)",
-   "seq": 0,
-   "start": "2027-01-07T16:30:00+02:00",
-   "subj": "Tēlotāja ģeometrija un inženiergrafika"
-  },
-  "1742918-98211": {
-   "end": "2027-01-14T18:05:00+02:00",
-   "h": "ec145fe191889f1f",
-   "room": "Ķīpsalas 6A - 464 (P4.7)",
-   "seq": 0,
-   "start": "2027-01-14T16:30:00+02:00",
-   "subj": "Tēlotāja ģeometrija un inženiergrafika"
-  },
-  "1742919-98211": {
-   "end": "2027-01-21T18:05:00+02:00",
-   "h": "bfb5bd8e7709061b",
-   "room": "Ķīpsalas 6A - 464 (P4.7)",
-   "seq": 0,
-   "start": "2027-01-21T16:30:00+02:00",
    "subj": "Tēlotāja ģeometrija un inženiergrafika"
   },
   "1754295-97182": {
@@ -1671,9 +1591,57 @@
    "seq": 0,
    "start": "2026-09-29T14:30:00+03:00",
    "subj": "Datortehnoloģijas transportā"
+  },
+  "1804600-98211": {
+   "end": "2026-11-12T18:05:00+02:00",
+   "h": "cafb817119dad2f0",
+   "room": "Ķīpsalas 6A - 464 (P4.7)",
+   "seq": 0,
+   "start": "2026-11-12T16:30:00+02:00",
+   "subj": "Tēlotāja ģeometrija un inženiergrafika"
+  },
+  "1804601-98211": {
+   "end": "2026-11-19T18:05:00+02:00",
+   "h": "2d4b3d5fabd550af",
+   "room": "Ķīpsalas 6A - 464 (P4.7)",
+   "seq": 0,
+   "start": "2026-11-19T16:30:00+02:00",
+   "subj": "Tēlotāja ģeometrija un inženiergrafika"
+  },
+  "1804602-98211": {
+   "end": "2026-11-26T18:05:00+02:00",
+   "h": "3a11810e2410f0f7",
+   "room": "Ķīpsalas 6A - 464 (P4.7)",
+   "seq": 0,
+   "start": "2026-11-26T16:30:00+02:00",
+   "subj": "Tēlotāja ģeometrija un inženiergrafika"
+  },
+  "1804603-98211": {
+   "end": "2026-12-03T18:05:00+02:00",
+   "h": "8d5b924f5bc276c0",
+   "room": "Ķīpsalas 6A - 464 (P4.7)",
+   "seq": 0,
+   "start": "2026-12-03T16:30:00+02:00",
+   "subj": "Tēlotāja ģeometrija un inženiergrafika"
+  },
+  "1804604-98211": {
+   "end": "2026-12-10T18:05:00+02:00",
+   "h": "bc34d243d7aec681",
+   "room": "Ķīpsalas 6A - 464 (P4.7)",
+   "seq": 0,
+   "start": "2026-12-10T16:30:00+02:00",
+   "subj": "Tēlotāja ģeometrija un inženiergrafika"
+  },
+  "1804605-98211": {
+   "end": "2026-12-17T18:05:00+02:00",
+   "h": "7143003bd7c2fb41",
+   "room": "Ķīpsalas 6A - 464 (P4.7)",
+   "seq": 0,
+   "start": "2026-12-17T16:30:00+02:00",
+   "subj": "Tēlotāja ģeometrija un inženiergrafika"
   }
  },
  "include_hash": "5111cc2754e8314e",
- "updated": "2026-10-20T19:16:37Z",
+ "updated": "2026-11-11T14:31:53Z",
  "version": 1
 }
