@@ -4,6 +4,23 @@ Every room move, time shift, addition and cancellation RTU has made since
 this calendar started syncing. Newest first.
 
 <!--log-->
+## 2026-11-16 20:28 UTC
+
+- `+ 2026-12-17 14:30  Matemātika`
+- `- 2026-12-17 14:30  Matemātika`
+- `+ 2026-12-22 10:15  Matemātika`
+- `- 2026-12-22 10:15  Matemātika`
+- `+ 2027-01-05 10:15  Matemātika`
+- `- 2027-01-05 10:15  Matemātika`
+- `+ 2027-01-05 12:30  Matemātika`
+- `- 2027-01-05 12:30  Matemātika`
+- `- 2027-01-07 14:30  Matemātika`
+- `- 2027-01-12 10:15  Matemātika`
+- `- 2027-01-12 12:30  Datortehnoloģijas transportā`
+- `- 2027-01-14 14:30  Matemātika`
+- `- 2027-01-19 10:15  Matemātika`
+- `- 2027-01-21 14:30  Matemātika`
+
 ## 2026-11-11 14:31 UTC
 
 - `+ 2026-11-12 16:30  Tēlotāja ģeometrija un inženiergrafika`
