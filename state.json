@@ -1400,36 +1400,20 @@
    "start": "2026-12-16T10:15:00+02:00",
    "subj": "Inženiermateriālu struktūra un īpašības"
   },
-  "1763342-97182": {
-   "end": "2026-12-23T11:50:00+02:00",
-   "h": "aa981b6c58efd560",
-   "room": "Āzenes 12 - 103",
-   "seq": 0,
-   "start": "2026-12-23T10:15:00+02:00",
-   "subj": "Inženiermateriālu struktūra un īpašības"
-  },
-  "1763343-97182": {
+  "1763343-119621": {
    "end": "2027-01-06T11:50:00+02:00",
-   "h": "5a0714b8df16d436",
+   "h": "02342bf764554179",
    "room": "Āzenes 12 - 103",
    "seq": 0,
    "start": "2027-01-06T10:15:00+02:00",
    "subj": "Inženiermateriālu struktūra un īpašības"
   },
-  "1763344-97182": {
+  "1763344-119639": {
    "end": "2027-01-13T11:50:00+02:00",
-   "h": "cfd6f241cf41a24f",
-   "room": "Āzenes 12 - 103",
+   "h": "5b44fdc3140baea1",
+   "room": "Attālināti - -",
    "seq": 0,
    "start": "2027-01-13T10:15:00+02:00",
-   "subj": "Inženiermateriālu struktūra un īpašības"
-  },
-  "1763345-97182": {
-   "end": "2027-01-20T11:50:00+02:00",
-   "h": "8fccdb7844e96ea4",
-   "room": "Āzenes 12 - 103",
-   "seq": 0,
-   "start": "2027-01-20T10:15:00+02:00",
    "subj": "Inženiermateriālu struktūra un īpašības"
   },
   "1784514-114017": {
@@ -1594,6 +1578,6 @@
   }
  },
  "include_hash": "5111cc2754e8314e",
- "updated": "2026-11-16T20:28:37Z",
+ "updated": "2026-11-20T11:43:01Z",
  "version": 1
 }

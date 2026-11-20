@@ -4,6 +4,15 @@ Every room move, time shift, addition and cancellation RTU has made since
 this calendar started syncing. Newest first.
 
 <!--log-->
+## 2026-11-20 11:43 UTC
+
+- `- 2026-12-23 10:15  Inženiermateriālu struktūra un īpašības`
+- `+ 2027-01-06 10:15  Inženiermateriālu struktūra un īpašības`
+- `- 2027-01-06 10:15  Inženiermateriālu struktūra un īpašības`
+- `+ 2027-01-13 10:15  Inženiermateriālu struktūra un īpašības`
+- `- 2027-01-13 10:15  Inženiermateriālu struktūra un īpašības`
+- `- 2027-01-20 10:15  Inženiermateriālu struktūra un īpašības`
+
 ## 2026-11-16 20:28 UTC
 
 - `+ 2026-12-17 14:30  Matemātika`
